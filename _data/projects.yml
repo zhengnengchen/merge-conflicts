@@ -1,16 +1,7 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
+- project: A Image-Event Matching System
   role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
-
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  duration: January, 2018 - May, 2018
+  # url: "https://github.com/probot/probot"
+  description: Our project is to develop a ”image-event matching system” to automatically generate labeled data for image captioning and event extraction. This system will accept a set of images and a set of descriptions (sentences or short paragraphs from news) as input, then output the best matches for each images and descriptions.
