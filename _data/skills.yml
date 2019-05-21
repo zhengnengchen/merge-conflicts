@@ -1,15 +1,15 @@
 # Skills
-- Skill: Programming language
-  Description: Python, C/C++, Java, Go
+- skill: Programming language
+  description: Python, C/C++, Java, Go
 
-- Skill: Functional Programming
-  Description: Prolog, Scheme, Haskell, Scala
+- skill: Functional Programming
+  description: Prolog, Scheme, Haskell, Scala
 
-- Skill: Data Analysis & Visualization
-  Description: Matlab, R, Tableau, D3.js
+- skill: Data Analysis & Visualization
+  description: Matlab, R, Tableau, D3.js
 
-- Skill: Database System
-  Description: Postgres, MySQL, InfluxDB, MongoDB
+- skill: Database System
+  description: Postgres, MySQL, InfluxDB, MongoDB
 
-- Skill: Web Development
-  Description: CSS, JavaScript (AngularJS), JQuery, MVC Frameworks (Guice, Spring)
+- skill: Web Development
+  description: CSS, JavaScript (AngularJS), JQuery, MVC Frameworks (Guice, Spring)
