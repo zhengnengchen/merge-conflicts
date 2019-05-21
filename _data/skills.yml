@@ -1,6 +1,15 @@
 # Skills
-- Programming language: Python, C/C++, Java, Go
-- Functional Programming: Prolog, Scheme, Haskell, Scala
-- Data Analysis & Visualization: Matlab, R, Tableau, D3.js
-- Database System: Postgres, MySQL, InfluxDB, MongoDB
-- Web Development: CSS, JavaScript (AngularJS), JQuery, MVC Frameworks (Guice, Spring)
+- Skill: Programming language
+  Description: Python, C/C++, Java, Go
+
+- Skill: Functional Programming
+  Description: Prolog, Scheme, Haskell, Scala
+
+- Skill: Data Analysis & Visualization
+  Description: Matlab, R, Tableau, D3.js
+
+- Skill: Database System
+  Description: Postgres, MySQL, InfluxDB, MongoDB
+
+- Skill: Web Development
+  Description: CSS, JavaScript (AngularJS), JQuery, MVC Frameworks (Guice, Spring)
