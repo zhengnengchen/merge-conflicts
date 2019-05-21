@@ -1,0 +1,7 @@
+# Researches
+- lab: RPI Data INCITE Lab
+  position: Research Assistant
+  duration: May, 2016 - June, 2016
+  summary: Orchestrated a research group of four to analyze the manufacturing and testing data from GlobalFoundries
+           Identified the factors that affect yield rate by examining over 1,000,000 data from photolithography machine and prober station with SVD, clustering, curve fitting method operated on R
+           Applied the result to find the connection between Dielectric Erosion and Metal Dishing and Chemical Mechanical Polishing based on Topography Variation or other interconnect failures
