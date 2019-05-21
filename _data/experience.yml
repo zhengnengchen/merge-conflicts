@@ -2,20 +2,21 @@
 - company: D&C Investments
   position: Trading Support Engineer Intern
   duration: June, 2018 - August, 2018
-  summary: Optimized a low-latency high-frequency trading system implemented in C++
-           Reduced market-to-order latency from 30us to 12us by limiting dynamically allocated memory, using polling to avoid blocking and introducing lock-free queue
-           Designed and implemented a high resolution benchmark evaluation method using RDTSC Instruction; Implemented a CPUID synchronization method
+  summary: 
+    - Optimized a low-latency high-frequency trading system implemented in C++
+    - Reduced market-to-order latency from 30us to 12us by limiting dynamically allocated memory, using polling to avoid blocking and introducing lock-free queue
+    - Designed and implemented a high resolution benchmark evaluation method using RDTSC Instruction; Implemented a CPUID synchronization method
 
 - company: CITIC Securities Company Limited
   position: Risk Analyst Intern
   duration: May, 2017 - August, 2017
-  summary: Drafted weekly market and credit risk analysis report; built multi-factor model and conducted linear fitting in R
-           Stress-tested the liquidity of loans in simulated worst scenarios to assess the ability to withstand market and credit risk
-           Developed the evaluation model of credit risk by translating the modified KMV model investigated in academic research papers (in Matlab, R)
+  summary: - Drafted weekly market and credit risk analysis report; built multi-factor model and conducted linear fitting in R
+           - Stress-tested the liquidity of loans in simulated worst scenarios to assess the ability to withstand market and credit risk
+           - Developed the evaluation model of credit risk by translating the modified KMV model investigated in academic research papers (in Matlab, R)
 
 - company: RPI Data INCITE Lab
   position: Research Assistant
   duration: May, 2016 - June, 2016
-  summary: Orchestrated a research group of four to analyze the manufacturing and testing data from GlobalFoundries
-           Identified the factors that affect yield rate by examining over 1,000,000 data from photolithography machine and prober station with SVD, clustering, curve fitting method operated on R
-           Applied the result to find the connection between Dielectric Erosion and Metal Dishing and Chemical Mechanical Polishing based on Topography Variation or other interconnect failures
+  summary: - Orchestrated a research group of four to analyze the manufacturing and testing data from GlobalFoundries
+           - Identified the factors that affect yield rate by examining over 1,000,000 data from photolithography machine and prober station with SVD, clustering, curve fitting method operated on R
+           - Applied the result to find the connection between Dielectric Erosion and Metal Dishing and Chemical Mechanical Polishing based on Topography Variation or other interconnect failures
